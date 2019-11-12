@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.1\HackatonApp.deps.json
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.1\HackatonApp.runtimeconfig.json
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.1\HackatonApp.runtimeconfig.dev.json
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.1\HackatonApp.dll
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.RazorAssemblyInfo.cache
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.RazorAssemblyInfo.cs
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.1\HackatonApp.pdb
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.dll
+C:\Users\aluno\Desktop\Hackaton19-master\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.1\HackatonApp.pdb
